@@ -5,7 +5,7 @@
 <h2>Registration Form</h2>
 
 
-<form action="welcome.php" method="post">
+<form action="Details.php" method="post">
 Name: <input type="text" name="name"><br><br>
 E-mail: <input type="text" name="email"><br><br>
 Phone-no: <input type="tel" name="phone" maxlength="10"><br><br>
